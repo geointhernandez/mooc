@@ -1,4 +1,3 @@
-[ 
 { país: "EEUU", visitas: 23725 }, 
 { país: "China", visitas: 1882 }, 
 { país: "Japón", visitas: 1809 }, 
@@ -11,4 +10,3 @@
 { país: "Rusia", visitas: 580 }, 
 { país: "Corea del Sur", visitas: 443 }, 
 { país: "Canadá", visitas: 441 }  
-]
